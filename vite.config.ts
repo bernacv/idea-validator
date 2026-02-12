@@ -7,7 +7,7 @@ export default defineConfig({
   // Update this to match your GitHub repository name
   // Example: if your repo is "username.github.io", use "/"
   // Example: if your repo is "my-app", use "/my-app/"
-  base: '/',
+  base: '/idea-validator/',
   plugins: [react()],
   resolve: {
     alias: {
